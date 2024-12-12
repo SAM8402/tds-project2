@@ -9,7 +9,7 @@ import openai  # Import the openai module
 !pip install pandas numpy matplotlib seaborn openai -q
 
 # Set up your OpenAI API key
-os.environ["OPENAI_API_KEY"] = "eyJhbGciOiJIUzI1NiJ9.eyJlbWFpbCI6IjIyZjMwMDA4OTJAZHMuc3R1ZHkuaWl0bS5hYy5pbiJ9.kLp1SnhJQmRTNrT4JWYCdTMy6S3peys4BdGlpY3aPhQ"  # Replace with your OpenAI API key
+os.environ["OPENAI_API_KEY"] = "eyJhbGciOiJIUzI1NiJ9.eyJlbWFpbCI6IjIyZjEwMDE5NzJAZHMuc3R1ZHkuaWl0bS5hYy5pbiJ9.cis1mHkzRUIXRf8g-NqHEXnVN4xfIJld3DWffjQSpYU"  #OpenAI API key
 
 # Load dataset with multiple encoding attempts
 def load_dataset(file_name):
