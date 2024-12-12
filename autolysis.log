@@ -1,0 +1,63 @@
+2024-12-03 18:03:11,403 - INFO - Dataset loaded successfully.
+2024-12-03 18:03:11,403 - INFO - Data preprocessing completed.
+2024-12-03 18:03:11,435 - ERROR - Error during analysis: could not convert string to float: '043965548X'
+2024-12-03 18:05:15,725 - INFO - Dataset loaded successfully.
+2024-12-03 18:05:15,741 - INFO - Data preprocessing completed.
+2024-12-03 18:05:15,773 - INFO - Data analysis completed.
+2024-12-03 18:05:17,010 - INFO - Visualizations saved as PNG.
+2024-12-03 18:05:17,902 - INFO - error_code=invalid_issuer error_message='Your authentication token is not from a valid issuer.' error_param=None error_type=invalid_request_error message='OpenAI API error received' stream_error=False
+2024-12-03 18:05:17,902 - ERROR - Error generating narrative: Your authentication token is not from a valid issuer.
+2024-12-03 19:39:12,572 - INFO - Dataset loaded successfully.
+2024-12-03 19:39:12,586 - INFO - Data preprocessing completed.
+2024-12-03 19:39:12,634 - INFO - Data analysis completed.
+2024-12-03 19:39:13,234 - INFO - Visualizations saved as PNG.
+2024-12-03 19:39:13,835 - INFO - error_code=invalid_issuer error_message='Your authentication token is not from a valid issuer.' error_param=None error_type=invalid_request_error message='OpenAI API error received' stream_error=False
+2024-12-03 19:39:13,835 - ERROR - Error generating narrative: Your authentication token is not from a valid issuer.
+2024-12-03 19:46:34,644 - INFO - Dataset loaded successfully.
+2024-12-03 19:46:34,660 - INFO - Data preprocessing completed.
+2024-12-03 19:46:34,692 - INFO - Data analysis completed.
+2024-12-03 19:46:35,201 - INFO - Visualizations saved as PNG.
+2024-12-03 19:48:11,546 - INFO - Narrative generated successfully.
+2024-12-03 19:48:11,546 - INFO - README.md created successfully.
+2024-12-03 20:05:36,565 - ERROR - Error loading dataset: read_csv() got an unexpected keyword argument 'error_bad_lines'
+2024-12-03 20:06:42,412 - ERROR - Error loading dataset: read_csv() got an unexpected keyword argument 'error_bad_lines'
+2024-12-03 20:07:27,791 - ERROR - Error loading dataset: read_csv() got an unexpected keyword argument 'error_bad_lines'
+2024-12-03 20:08:53,175 - INFO - Dataset loaded successfully.
+2024-12-03 20:08:53,175 - INFO - Data preprocessing completed.
+2024-12-03 20:08:53,191 - ERROR - Error during analysis: could not convert string to float: 'Unknown'
+2024-12-03 21:33:25,913 - INFO - Dataset loaded successfully.
+2024-12-03 21:33:25,932 - INFO - Data preprocessing completed.
+2024-12-03 21:33:25,961 - INFO - Data analysis completed.
+2024-12-03 21:33:27,445 - INFO - Visualizations saved as PNG.
+2024-12-03 21:33:49,206 - INFO - Narrative generated successfully.
+2024-12-03 21:33:49,209 - INFO - README.md created successfully.
+2024-12-03 21:35:22,686 - INFO - Dataset loaded successfully.
+2024-12-03 21:35:22,694 - INFO - Data preprocessing completed.
+2024-12-03 21:35:22,712 - INFO - Data analysis completed.
+2024-12-03 21:35:25,142 - INFO - Visualizations saved as PNG.
+2024-12-03 21:35:41,194 - INFO - Narrative generated successfully.
+2024-12-03 21:35:41,194 - INFO - README.md created successfully.
+2024-12-03 21:36:08,295 - INFO - Dataset loaded successfully.
+2024-12-03 21:36:08,342 - INFO - Data preprocessing completed.
+2024-12-03 21:36:08,421 - INFO - Data analysis completed.
+2024-12-03 21:38:49,717 - INFO - Visualizations saved as PNG.
+2024-12-03 21:39:07,101 - INFO - Narrative generated successfully.
+2024-12-03 21:39:07,103 - INFO - README.md created successfully.
+2024-12-04 21:57:00,940 - INFO - Dataset loaded successfully.
+2024-12-04 21:57:01,011 - INFO - Data preprocessing completed.
+2024-12-04 21:57:01,095 - INFO - Data analysis completed.
+2024-12-04 22:00:40,520 - INFO - Visualizations saved as PNG.
+2024-12-04 22:00:58,118 - INFO - Narrative generated successfully.
+2024-12-04 22:00:58,118 - INFO - README.md created successfully.
+2024-12-04 22:01:41,011 - INFO - Dataset loaded successfully.
+2024-12-04 22:01:41,011 - INFO - Data preprocessing completed.
+2024-12-04 22:01:41,045 - INFO - Data analysis completed.
+2024-12-04 22:01:43,717 - INFO - Visualizations saved as PNG.
+2024-12-04 22:02:01,486 - INFO - Narrative generated successfully.
+2024-12-04 22:02:01,487 - INFO - README.md created successfully.
+2024-12-04 22:02:53,063 - INFO - Dataset loaded successfully.
+2024-12-04 22:02:53,078 - INFO - Data preprocessing completed.
+2024-12-04 22:02:53,095 - INFO - Data analysis completed.
+2024-12-04 22:02:54,228 - INFO - Visualizations saved as PNG.
+2024-12-04 22:03:07,553 - INFO - Narrative generated successfully.
+2024-12-04 22:03:07,554 - INFO - README.md created successfully.
